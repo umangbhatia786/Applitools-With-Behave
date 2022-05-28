@@ -1,0 +1,4 @@
+APPLITOOLS_API_KEY = 'sQ95aLWFirE78wrFQUzsk103zwgJYbU7oIOrelVQcD35A110'
+BROWSER = 'CHROME'
+APP_NAME = 'MY_APP'
+APP_UNDER_TEST = 'https://automationbookstore.dev/'
